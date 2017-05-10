@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MongoDB.Transactions</id>
+    <version>1.0.0</version>
+    <title>MongoDb Transactions</title>
+    <authors>Kyriakos Akriotis</authors>
+    <owners>Kyriakos Akriotis</owners>
+    <projectUrl>https://github.com/akyriako/mongodb.repository</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MongoDB and System.Transactions</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>MongoDb C# Transactions</tags>
+  </metadata>
+</package>
